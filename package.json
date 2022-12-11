@@ -2,7 +2,7 @@
   "name": "timertiger",
   "version": "1.0.0",
   "description": "Aumenta tu potencial en tus rutinas con tigertimer app",
-  "main": "script.js",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
